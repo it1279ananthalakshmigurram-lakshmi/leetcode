@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
