@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/1652-defuse-the-bomb) |
@@ -52,4 +53,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
