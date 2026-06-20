@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0463-island-perimeter](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0463-island-perimeter) |
+| [0994-rotting-oranges](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0994-rotting-oranges) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1652-defuse-the-bomb](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0463-island-perimeter) |
+| [0994-rotting-oranges](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0463-island-perimeter) |
+| [0994-rotting-oranges](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0994-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
