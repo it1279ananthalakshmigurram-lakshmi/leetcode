@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0118-pascals-triangle](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0463-island-perimeter](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0463-island-perimeter) |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
