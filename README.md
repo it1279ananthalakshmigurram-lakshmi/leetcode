@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0118-pascals-triangle](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0118-pascals-triangle) |
 | [0200-number-of-islands](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0463-island-perimeter](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0463-island-perimeter) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/0118-pascals-triangle) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/it1279ananthalakshmigurram-lakshmi/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Math
 |  |
